@@ -36,16 +36,10 @@ Comprehensive analysis of Walmart sales data (10,000 transactions, $1.15M revenu
 - **Chi-Square**: Tested categorical associations
 - **Spearman Correlation**: Rank correlation analysis
 
-<img width="2016" height="1377" alt="output" src="https://github.com/user-attachments/assets/c800a5a4-ad59-4b12-bab8-c87ca6e28121" />
-
-
 ### Machine Learning
 - **Models**: Linear Regression, Decision Tree, Random Forest, Gradient Boosting
 - **Regularization**: L1 (Lasso), L2 (Ridge), ElasticNet
 - **Evaluation**: R², MAE, RMSE, Cross-Validation
--<img width="1790" height="985" alt="output1" src="https://github.com/user-attachments/assets/4b2e7c8c-fd28-4c08-b816-bf73ee395642" />
-
-
 
 ## 📈 Key Insights
 
@@ -66,6 +60,8 @@ Comprehensive analysis of Walmart sales data (10,000 transactions, $1.15M revenu
 - Payment method & Category are **dependent** (p < 0.05)
 - Rating has **weak but significant** correlation with revenue (ρ = 0.058)
 
+- <img width="2016" height="1377" alt="output" src="https://github.com/user-attachments/assets/c800a5a4-ad59-4b12-bab8-c87ca6e28121" />
+
 ### Machine Learning Performance
 
 | Model | R² | MAE | CV R² |
@@ -79,6 +75,7 @@ Comprehensive analysis of Walmart sales data (10,000 transactions, $1.15M revenu
 1. **quantity** (58.8%) ← **Key driver**
 2. unit_price (22.1%)
 3. profit_margin (8.7%)
+-<img width="1790" height="985" alt="output1" src="https://github.com/user-attachments/assets/4b2e7c8c-fd28-4c08-b816-bf73ee395642" />
 
 ## 💡 Business Recommendations
 
