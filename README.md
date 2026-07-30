@@ -93,9 +93,3 @@ Comprehensive analysis of Walmart sales data (10,000 transactions, $1.15M revenu
 ## 📌 Conclusion
 The Random Forest model achieves **99.99% accuracy** with **$0.19 average error**, providing exceptional forecasting capability. **Quantity** is the most critical revenue driver (58.8% importance), and **Fashion accessories** is the top-performing category. These insights enable data-driven decisions for inventory, marketing, and growth strategies.
 
----
-
-## 🛠️ Tech Stack
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `SciPy` `Jupyter`
-
-## 📁 Repository Structure
